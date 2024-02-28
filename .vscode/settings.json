@@ -1,0 +1,14 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "mssql-jdbc-11.2.0.jre11.jar",
+            "mysql-connector-java-8.0.30.jar",
+            "jars/mysql-connector-java-8.0.30.jar"
+        ],
+        "exclude": [
+            "/mnt/c/Users/Jonathan/Downloads/sqljdbc_11.2.0.0_enu/sqljdbc_11.2/enu/mssql-jdbc-11.2.0.jre11.jar"
+        ]
+    }
+}
